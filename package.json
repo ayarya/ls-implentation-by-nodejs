@@ -19,5 +19,8 @@
 	"homepage": "https://github.com/ayarya/ls-implentation-by-nodejs#readme",
 	"bin": {
 		"nls": "index.js"
+	},
+	"dependencies": {
+		"chalk": "^4.0.0"
 	}
 }
